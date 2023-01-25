@@ -18,7 +18,7 @@ Relógio digital desenvolvido através de um tutorial no Youtube para fixar conc
 <br>
 
 <p align="center">
-  <img alt="Relógio Digital" src=".github/preview.png" width="100%">
+  <img alt="Relógio Digital" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
